@@ -46,7 +46,7 @@ const getToKnowBini = {
 
 ![GitHub metrics](https://metrics.lecoq.io/benbel376)
 
-[![Micky's github activity graph](https://activity-graph.herokuapp.com/graph?username=Micky373&theme=dracula)](https://github.com/benbel376/github-readme-activity-graph)
+[![Bini's github activity graph](https://activity-graph.herokuapp.com/graph?username=benbel376&theme=dracula)](https://github.com/benbel376/github-readme-activity-graph)
 
 - [My Github skyline](https://skyline.github.com/benbel376/2021)
 
