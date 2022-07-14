@@ -11,7 +11,7 @@
 <br>
 
 ``` JavaScript
-const getToKnowMicky = {
+const getToKnowBini = {
     fullName: "Biniyam Belayneh Demisse",
     origin: "Ethiopia 🇪🇹",
     jobStatus: ["A Junior Data Engineer","Student at 10 Acadamy"],
