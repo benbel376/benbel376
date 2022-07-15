@@ -14,7 +14,7 @@
 const getToKnowBini = {
     fullName: "Biniyam Belayneh Demisse",
     origin: "Ethiopia 🇪🇹",
-    jobStatus: ["A Junior Data Engineer","Student at 10 Acadamy"],
+    jobStatus: ["A Junior Data Engineer Open for Hire","Student at 10 Acadamy"],
     maritalStatus: "Single",
     hobbies: ["Coding","Crafts and Painting", "Reading","Watching Movies","Solving Puzzles","Philosophy"],
     techLanguages:["Python","R","JavaScript","SQL"],
@@ -61,10 +61,8 @@ const getToKnowBini = {
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src = "https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
-<img src = "https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=Kalilinux&logoColor=white">
 <img src = "https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
 <img src = "https://img.shields.io/badge/Npm-CB3837?style=flat&logo=npm&logoColor=white">
-<img src = "https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white">
 <img src = "https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white">
 <img src = "https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white">
 <img src = "https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
@@ -75,7 +73,6 @@ const getToKnowBini = {
 <img src = "https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
 <img src = "https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 <img src = "https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
-<img src = "https://img.shields.io/badge/Cisco-0052CC?style=flat&logo=Cisco&logoColor=white">
 </p>
 
 <br/>
