@@ -46,44 +46,38 @@ const getToKnowBiniMore = {
 
 ## Tech Stack
 #### Technologies
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![Python](https://img.shields.io/badge/-Python-fff?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-fff?style=flat&logo=R)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=flat&logo=TypeScript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-fff?style=flat&logo=Java)&nbsp;
+![C++](https://img.shields.io/badge/-C++-fff?style=flat&logo=C%2B%2B)&nbsp;
 
 #### Frameworks/Libraries
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
-![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
-![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
-![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=Pytest)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-fff?style=flat&logo=NumPy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-fff?style=flat&logo=Pandas)&nbsp;
+![PySpark](https://img.shields.io/badge/-Spark-fff?style=flat&logo=Spark)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-fff?style=flat&logo=scikit%20learn)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-fff?style=flat&logo=TensorFlow)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-fff?style=flat&logo=Flask)&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-fff?style=flat&logo=Streamlit)&nbsp;
+![Pytest](https://img.shields.io/badge/-Pytest-fff?style=flat&logo=Pytest)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-fff?style=flat&logo=Node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-fff?style=flat&logo=React)&nbsp;
 
 #### Databases
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-05122A?style=flat&logo=Cloud%20Firestore)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-fff?style=flat&logo=SQLite)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-fff?style=flat&logo=Mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat&logo=PostgreSQL)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=flat&logo=MongoDB)&nbsp;
 
 #### Tools
-![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=MLflow)&nbsp;
-![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
-![DVC](https://img.shields.io/badge/-DVC-05122A?style=flat&logo=DVC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
-![Travis%20CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=Travis%20CI)&nbsp;
+![MLflow](https://img.shields.io/badge/-MLflow-fff?style=flat&logo=MLflow)&nbsp;
+![Airflow](https://img.shields.io/badge/-Airflow-fff?style=flat&logo=Airflow)&nbsp;
+![DVC](https://img.shields.io/badge/-DVC-fff?style=flat&logo=DVC)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)&nbsp;
+![github actions](https://img.shields.io/badge/-GitHub%20Actions-fff?style=flat&logo=GitHub%20Actions)&nbsp;
+![Travis%20CI](https://img.shields.io/badge/-Travis%20CI-fff?style=flat&logo=Travis%20CI)&nbsp;
 
 ## Latest Blog Posts
 
