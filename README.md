@@ -3,15 +3,19 @@
 <img src="https://img.shields.io/badge/Biniyam%20Belayneh-is%20Available for a Remote Work-greenyellow" />
 
 <h1>Hello, I'm Biniaym Belayneh <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px"> 😉</h1>
+I am a Machine Learning Engineer with a Software Engineering background. I am passionate about all things technology, and I love to learn new things. Currently, I am looking for job opportunities in the area of Machine learning.
 
-<br>
-
-<p align = "center"><img src="./animation_500_kxa883sd.gif" alt="Biniyam Belayneh" width = "400px" height = "400px"/></p>
-
-<br>
+### About Me 
+- 🎓 &nbsp;I have studied Bachelor's Degree in Electrical Engineering, Communication Stream at Addis Ababa Science and Technology University.
+- 🎓 &nbsp;I just completed three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning apache spark
+- 💬 &nbsp;Ask me about Python, Apache Airflow, DBT, Data Warehouse development, ETL, etc..
+- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects! and build public educating platform on data engineering
+- ⚡ &nbsp;Fun fact: I love to play paint and ponder the big questions in life :smiley:
 
 ``` JavaScript
-const getToKnowBini = {
+const getToKnowBiniMore = {
     fullName: "Biniyam Belayneh Demisse",
     origin: "Ethiopia 🇪🇹",
     jobStatus: ["A Junior Data Engineer Open for Hire","Student at 10 Acadamy"],
