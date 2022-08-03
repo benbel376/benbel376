@@ -37,9 +37,11 @@ const getToKnowBiniMore = {
  ```
  ## My top open source projects
 <p align="left">
-  <a href="https://github.com/benbel376/ELT_Pipeline_Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=ELT_Pipeline_Project&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/benbel376/LIDAR_ETL"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=LIDAR_ETL&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
-  <a href="https://github.com/benbel376/telecom_users_analytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=telecom_users_analytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/benbel376/Twitter-Data-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=Twitter-Data-Analysis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/benbel376/speech_to_text"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=speech_to_text&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/benbel376/causal_graph"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=causal_graph&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/benbel376/ELT_Pipeline_Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=ELT_Pipeline_Project"></a>
+  <a href="https://github.com/benbel376/LIDAR_ETL"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=LIDAR_ETL"></a>  
+  <a href="https://github.com/benbel376/telecom_users_analytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=telecom_users_analytics"></a>  
+  <a href="https://github.com/benbel376/Twitter-Data-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=Twitter-Data-Analysis"></a>  
+  <a href="https://github.com/benbel376/speech_to_text"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=speech_to_text"></a> 
 </p>
 
 ## Tech Stack
