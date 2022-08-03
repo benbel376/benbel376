@@ -104,8 +104,6 @@ const getToKnowBiniMore = {
 
 <img src="https://metrics.lecoq.io/benbel376"/>
 ____
-## Watch my contribution graph eaten by the snake🐍
-![Biniyam snake gif](https://github.com/benbel376/benbel376/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center"> You can reach me at 📫 </h3>
 <br />
