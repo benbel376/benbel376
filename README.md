@@ -12,7 +12,7 @@ I am a Data Engineer with a Software Engineering and Electronic Communication ba
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning apache spark
 - 💬 &nbsp;Ask me about Python, Apache Airflow, DBT, Data Warehouse development, ETL, etc..
-- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects! and build public educating platform on data engineering
+- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects! and build public educating platform about data engineering
 - ⚡ &nbsp;Fun fact: I love to play paint and ponder the big questions in life :smiley:
 
 ``` JavaScript
