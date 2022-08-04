@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Biniyam%20Belayneh-is%20Available for a Remote Work-greenyellow" />
 </p>
 <h1>Hello, I'm Biniaym Belayneh <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px"> 😉</h1>
-I am a Machine Learning Engineer with a Software Engineering background. I am passionate about all things technology, and I love to learn new things. Currently, I am looking for job opportunities in the area of Machine learning.
+I am a Data Engineer with a Software Engineering and Electronic Communication background. I am passionate about all things technology, and I love to learn new things. Currently, I am looking for job opportunities in the area of data engineering.
 
 ### About Me 
 - 🎓 &nbsp;I have studied Bachelor's Degree in Electrical Engineering, Communication Stream at Addis Ababa Science and Technology University.
