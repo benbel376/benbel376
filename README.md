@@ -23,8 +23,8 @@ const getToKnowBiniMore = {
     jobStatus: ["Cloud Solutions Architect", "MLOps Engineer Open for Hire"],
     maritalStatus: "Single",
     hobbies: ["Cloud Computing", "Machine Learning", "Reading", "Problem Solving"],
-    techLanguages:["Python", "Bash", "JavaScript", "SQL"],
-    age: 25,
+    techLanguages:["Python", "Bash", "terraform", "ansible", "JavaScript", "SQL"],
+    age: 27,
     isWorkingNow: false,
     educationLevel: {
         bachelorsDegree: "Electrical Engineering, Communication Stream",
@@ -51,7 +51,6 @@ const getToKnowBiniMore = {
 
 #### Cloud Platforms
 ![AWS](https://img.shields.io/badge/-AWS-fff?style=flat&logo=Amazon%20AWS)&nbsp;
-![GCP](https://img.shields.io/badge/-Google%20Cloud-fff?style=flat&logo=Google%20Cloud)&nbsp;
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-fff?style=flat&logo=Microsoft%20Azure)&nbsp;
 
 #### MLOps Tools
