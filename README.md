@@ -1,46 +1,38 @@
-
 <p>
    <img src="https://komarev.com/ghpvc/?username=benbel376"/>
-
-<img src="https://img.shields.io/badge/Biniyam%20Belayneh-is%20Available%20for%20Remote%20Work-greenyellow" />
+   <img src="https://img.shields.io/badge/Biniyam%20Belayneh-is%20Available%20for%20Remote%20Work-greenyellow" />
 </p>
-<h1>Hello, I'm Biniyam Belayneh <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px"> 😉</h1>
-I am an MLOps and Cloud Solutions Architect with a strong background in software engineering and cloud infrastructure. Passionate about AI, cloud-native solutions, and machine learning deployment at scale, I’m currently seeking roles in ML engineering, MLOps, or cloud architecture.
+
+<h1>Hello, I'm Biniyam Belayneh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="30px"> 😉</h1>
+
+I am an experienced ML and MLOps Engineer, specializing in designing and deploying end-to-end machine learning pipelines, optimizing cloud infrastructure, and automating scalable production environments. My work focuses on deploying robust, production-ready AI systems on AWS, GCP, and Azure.
 
 ### About Me 
-- 🎓 &nbsp;Bachelor's Degree in Electrical Engineering, Communication Stream from Addis Ababa Science and Technology University.
-- 📊 &nbsp;Recently completed intensive training in Machine Learning Engineering at 10Academy.
-- ☁️ &nbsp;Expertise in cloud solutions like AWS, with hands-on experience deploying scalable machine learning models.
-- 💻 &nbsp;Proficient in designing and automating ML pipelines using tools like Docker, Airflow, and Kubernetes.
-- 💬 &nbsp;Ask me about AWS, Terraform, Docker, Kubernetes, MLflow, and everything cloud-native.
-- 🥅 &nbsp;2024 Goals: Contribute to open-source MLOps projects and build scalable cloud solutions for real-world applications.
-- ⚡ &nbsp;Fun fact: I enjoy cloud-gazing and solving real-world problems with cloud-based AI solutions!
+- 🎓 &nbsp;Bachelor's Degree in Electrical Engineering, Communication Stream, from Addis Ababa Science and Technology University.
+- 📊 &nbsp;Completed intensive Machine Learning Engineering training at 10Academy.
+- ☁️ &nbsp;Experienced in cloud platforms (AWS, GCP, Azure), with expertise in model deployment, cost optimization, and performance tuning.
+- 💻 &nbsp;Proficient in MLOps tools like Docker, Kubernetes, Airflow, and MLflow to automate workflows and streamline deployment.
+- 🥅 &nbsp;2024 Goals: Contribute to open-source MLOps projects and build scalable, real-world cloud-based ML solutions.
+- ⚡ &nbsp;Fun fact: I enjoy cloud-gazing and solving real-world challenges through cloud-based AI solutions.
 
-``` JavaScript
+```javascript
 const getToKnowBiniMore = {
     fullName: "Biniyam Belayneh Demisse",
     origin: "Ethiopia 🇪🇹",
-    jobStatus: ["Cloud Solutions Architect", "MLOps Engineer Open for Hire"],
-    maritalStatus: "Single",
+    jobStatus: ["ML Engineer", "MLOps Engineer Open for Hire"],
     hobbies: ["Cloud Computing", "Machine Learning", "Reading", "Problem Solving"],
-    techLanguages:["Python", "Bash", "terraform", "ansible", "JavaScript", "SQL"],
+    techLanguages: ["Python", "Bash", "Terraform", "Ansible", "JavaScript", "SQL"],
     age: 27,
-    isWorkingNow: false,
     educationLevel: {
         bachelorsDegree: "Electrical Engineering, Communication Stream",
         isCompleted: true,
     },
     cloudPlatforms: ["AWS", "GCP", "Azure"],
-    lookingForNewOpportunities: true    
+    lookingForNewOpportunities: true
 }
- ```
 
 ## Featured Projects
-<p align="left">
-  <a href="https://github.com/benbel376/MLOps_Pipeline_Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=MLOps_Pipeline_Project"></a>
-  <a href="https://github.com/benbel376/Cloud_ML_Model_Deployment"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=Cloud_ML_Model_Deployment"></a>  
-  <a href="https://github.com/benbel376/End_to_End_AWS_ML_Pipeline"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=End_to_End_AWS_ML_Pipeline"></a>  
-</p>
+<p align="left"> <a href="https://github.com/benbel376/MLOps_Pipeline_Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=MLOps_Pipeline_Project"></a> <a href="https://github.com/benbel376/Cloud_ML_Model_Deployment"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=Cloud_ML_Model_Deployment"></a> <a href="https://github.com/benbel376/End_to_End_AWS_ML_Pipeline"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=End_to_End_AWS_ML_Pipeline"></a> </p>
 
 ## Tech Stack
 #### Technologies
