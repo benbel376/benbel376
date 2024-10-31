@@ -70,30 +70,6 @@ const getToKnowBiniMore = {
 - [Optimizing Machine Learning Model Training with MLflow and DVC](#)
 <!-- BLOG-POST-LIST:END -->
 
-## GitHub Analytics
-<p align="left">
-  <a href="https://github.com/benbel376">
-    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=benbel376&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=false&bg_color=fff"/>
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=benbel376&theme=white-ice&hide_border=false&stroke=000000&background=ffffff">
-  </a>
-</p>
-
-<br />
-
-## GitHub Metrics
-
-<img src="https://metrics.lecoq.io/benbel376"/>
-____
-
-<h3 align="center"> You can reach me at 📫 </h3>
-<br />
-<p align="center">
-<a href="https://www.linkedin.com/in/biniyam-belayneh-demisse-42909617a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:biniyambelayneh376@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-<p align = "center"><a href="https://github.com/benbel376">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/benbel376?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a></p>
-</p>
-
 **Thanks for Stopping by and visiting!! 😊**
 
 <p align="center">
