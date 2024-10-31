@@ -30,8 +30,9 @@ const getToKnowBiniMore = {
     cloudPlatforms: ["AWS", "GCP", "Azure"],
     lookingForNewOpportunities: true
 }
+```
 
-## Featured Projects
+### Featured Projects
 <p align="left"> <a href="https://github.com/benbel376/MLOps_Pipeline_Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=MLOps_Pipeline_Project"></a> <a href="https://github.com/benbel376/Cloud_ML_Model_Deployment"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=Cloud_ML_Model_Deployment"></a> <a href="https://github.com/benbel376/End_to_End_AWS_ML_Pipeline"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=benbel376&repo=End_to_End_AWS_ML_Pipeline"></a> </p>
 
 ## Tech Stack
